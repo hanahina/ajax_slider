@@ -17,5 +17,8 @@
         "node.js": "10.16.3",
         "webpack": "^4.39.3",
         "webpack-cli": "^3.3.8"
+    },
+    "dependencies": {
+        "swiper": "^4.5.0"
     }
 }
